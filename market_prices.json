@@ -1,0 +1,30 @@
+{
+    "meta_info": {
+        "fecha_actualizacion": "2025-12-02 17:17:48 UTC",
+        "fuente_datos": "Affiliate Networks Aggregated Data"
+    },
+    "cotizaciones": {
+        "seguros": 9.0,
+        "hipoteca": 24.5,
+        "crypto": 20.0,
+        "software": 16.0,
+        "betting": 40.6,
+        "remesas": 8.35,
+        "wedding": 8.0,
+        "travel": 8.0,
+        "electronics": 17.2,
+        "gaming": 72.5,
+        "fashion": 15.0,
+        "deuda_relief": 14.5,
+        "credit_repair": 72.5,
+        "investor": 90.0,
+        "homeowner": 17.0,
+        "home_security": 26.15,
+        "salud_oido": 55.0,
+        "salud_diabetes": 8.0,
+        "salud_piel": 8.0,
+        "salud_senior": 8.0,
+        "padres": 12.0,
+        "seniors": 8.0
+    }
+}
