@@ -1,0 +1,39 @@
+name: Actualizar Precios Diarios
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Se ejecuta a las 8:00 AM UTC
+  workflow_dispatch:      # Esto te deja correrlo manualmente con un botón
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:          # <--- ESTO ES IMPORTANTE PARA QUE PUEDA GUARDAR
+      contents: write
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar librerías
+        run: pip install requests beautifulsoup4
+
+      - name: Correr Script de Scraping
+        run: python updater.py
+
+      - name: Guardar cambios
+        run: |
+          git config --global user.name 'Bot de Precios'
+          git config --global user.email 'bot@noreply.github.com'
+          # Solo hace commit si hubo cambios en el archivo
+          if [[ -n $(git status -s market_prices.json) ]]; then
+            git add market_prices.json
+            git commit -m "Actualización automática de precios"
+            git push
+          else
+            echo "No hubo cambios en los precios hoy."
+          fi
