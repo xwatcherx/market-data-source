@@ -1,15 +1,15 @@
 {
     "meta_info": {
-        "fecha_actualizacion": "2025-12-18 08:01:04 UTC",
+        "fecha_actualizacion": "2025-12-19 08:01:23 UTC",
         "fuente_datos": "Affiliate Networks Aggregated Data"
     },
     "cotizaciones": {
         "seguros": 10.0,
         "hipoteca": 24.5,
-        "crypto": 27.15,
+        "crypto": 26.92,
         "software": 16.0,
         "betting": 18.2,
-        "remesas": 8.5,
+        "remesas": 8.42,
         "wedding": 8.0,
         "travel": 8.0,
         "electronics": 17.2,
