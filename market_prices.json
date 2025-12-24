@@ -1,22 +1,22 @@
 {
     "meta_info": {
-        "fecha_actualizacion": "2025-12-23 08:01:06 UTC",
+        "fecha_actualizacion": "2025-12-24 08:00:25 UTC",
         "fuente_datos": "Affiliate Networks Aggregated Data"
     },
     "cotizaciones": {
-        "seguros": 10.0,
+        "seguros": 6.0,
         "hipoteca": 24.5,
         "crypto": 20.0,
         "software": 16.0,
         "betting": 18.2,
-        "remesas": 8.42,
+        "remesas": 8.5,
         "wedding": 8.0,
         "travel": 8.0,
         "electronics": 17.2,
         "gaming": 72.5,
         "fashion": 15.0,
         "deuda_relief": 14.5,
-        "credit_repair": 57.5,
+        "credit_repair": 45.0,
         "investor": 90.0,
         "homeowner": 17.0,
         "home_security": 26.15,
