@@ -1,6 +1,6 @@
 {
     "meta_info": {
-        "fecha_actualizacion": "2026-01-06 08:01:08 UTC",
+        "fecha_actualizacion": "2026-01-07 08:01:04 UTC",
         "fuente_datos": "Affiliate Networks Aggregated Data"
     },
     "cotizaciones": {
@@ -15,11 +15,11 @@
         "electronics": 17.2,
         "gaming": 72.5,
         "fashion": 15.0,
-        "deuda_relief": 21.0,
+        "deuda_relief": 24.0,
         "credit_repair": 70.0,
         "investor": 90.0,
         "homeowner": 17.0,
-        "home_security": 26.15,
+        "home_security": 2.3,
         "salud_oido": 55.0,
         "salud_diabetes": 8.0,
         "salud_piel": 8.0,
