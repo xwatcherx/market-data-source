@@ -1,15 +1,15 @@
 {
     "meta_info": {
-        "fecha_actualizacion": "2026-02-12 08:30:36 UTC",
+        "fecha_actualizacion": "2026-02-13 08:28:20 UTC",
         "fuente_datos": "Affiliate Networks Aggregated Data"
     },
     "cotizaciones": {
         "seguros": 10.0,
         "hipoteca": 24.5,
-        "crypto": 30.0,
+        "crypto": 31.38,
         "software": 16.0,
         "betting": 20.0,
-        "remesas": 8.57,
+        "remesas": 5.54,
         "wedding": 8.0,
         "travel": 8.0,
         "electronics": 17.2,
