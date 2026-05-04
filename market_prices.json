@@ -1,6 +1,6 @@
 {
     "meta_info": {
-        "fecha_actualizacion": "2026-05-03 09:08:52 UTC",
+        "fecha_actualizacion": "2026-05-04 10:02:34 UTC",
         "fuente_datos": "Affiliate Networks Aggregated Data"
     },
     "cotizaciones": {
@@ -13,7 +13,7 @@
         "wedding": 8.0,
         "travel": 13.51,
         "electronics": 17.2,
-        "gaming": 75.0,
+        "gaming": 70.0,
         "fashion": 15.0,
         "deuda_relief": 22.5,
         "credit_repair": 40.0,
