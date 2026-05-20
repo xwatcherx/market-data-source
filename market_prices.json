@@ -1,10 +1,10 @@
 {
     "meta_info": {
-        "fecha_actualizacion": "2026-05-19 10:50:31 UTC",
+        "fecha_actualizacion": "2026-05-20 10:38:27 UTC",
         "fuente_datos": "Affiliate Networks Aggregated Data"
     },
     "cotizaciones": {
-        "seguros": 8.9,
+        "seguros": 10.0,
         "hipoteca": 24.5,
         "crypto": 7.8,
         "software": 34.25,
