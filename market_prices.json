@@ -1,6 +1,6 @@
 {
     "meta_info": {
-        "fecha_actualizacion": "2026-09-09 12:29:45 UTC",
+        "fecha_actualizacion": "2026-09-10 12:23:11 UTC",
         "fuente_datos": "Affiliate Networks Aggregated Data"
     },
     "cotizaciones": {
@@ -17,7 +17,7 @@
         "fashion": 14.0,
         "deuda_relief": 11.99,
         "credit_repair": 42.5,
-        "investor": 42.5,
+        "investor": 33.0,
         "homeowner": 17.0,
         "home_security": 2.3,
         "salud_oido": 55.0,
