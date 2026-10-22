@@ -1,23 +1,23 @@
 {
     "meta_info": {
-        "fecha_actualizacion": "2026-10-21 13:15:23 UTC",
+        "fecha_actualizacion": "2026-10-22 13:13:37 UTC",
         "fuente_datos": "Affiliate Networks Aggregated Data"
     },
     "cotizaciones": {
-        "seguros": 8.0,
+        "seguros": 10.0,
         "hipoteca": 20.0,
         "crypto": 23.88,
         "software": 102.8,
-        "betting": 25.49,
+        "betting": 29.99,
         "remesas": 8.4,
         "wedding": 8.0,
         "travel": 12.94,
         "electronics": 12.0,
         "gaming": 6.27,
-        "fashion": 15.0,
+        "fashion": 19.5,
         "deuda_relief": 11.9,
         "credit_repair": 40.0,
-        "investor": 31.5,
+        "investor": 33.02,
         "homeowner": 17.0,
         "home_security": 15.68,
         "salud_oido": 55.0,
